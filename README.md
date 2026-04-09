@@ -1,0 +1,1 @@
+# Tugas-Individu-8-OpenCV-Part-2
